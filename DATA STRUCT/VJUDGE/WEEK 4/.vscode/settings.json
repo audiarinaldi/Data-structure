@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "__config": "cpp",
+        "stack": "cpp",
+        "iterator": "cpp"
+    }
+}
